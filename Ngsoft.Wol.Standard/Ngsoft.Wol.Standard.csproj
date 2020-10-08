@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Aleksandr Nagorniy</Authors>
+    <Description>Contains WolBuilder class for using Wake-on-LAN feature</Description>
+    <Copyright>Copyright © Aleksandr Nagorniy</Copyright>
+  </PropertyGroup>
+
+</Project>
